@@ -1,0 +1,24 @@
+1、 爬取菜鸟教程的python100，存储为单个的Python文件。
+2、 爬取b站最热门视频的弹幕。
+3、 模拟登陆CSDN网站，并获取系统通知的标题。
+
+sudo pkill -f uwsgi -9
+uwsgi --ini uwsgi.ini
+cd /usr/local/nginx/sbin/
+./nginx
+
+ps ajx|grep uwsgi   查看进程
+uwsgi --reload uwsgi.pid  重启
+
+
+
+
+scrapy startproject 
+scrapy genspider tupian xxx
+scrapy crawl mv
+
+docker exec -it 62349aa31687 /bin/bash
+
+dkogjo3512@sandbox.com
+111111
+
